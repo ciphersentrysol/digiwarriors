@@ -243,7 +243,7 @@ export default function Home({ onNavigate, wins, losses, level, playerName, onSe
         </motion.p>
 
         <motion.a
-          href="https://orynth.dev/projects/metal-bugg"
+          href="https://x.com/digiwarriorsfun"
           target="_blank"
           rel="noopener noreferrer"
           className="mt-4 block"
@@ -254,10 +254,10 @@ export default function Home({ onNavigate, wins, losses, level, playerName, onSe
           whileTap={{ scale: 0.97 }}
         >
           <img
-            src="https://orynth.dev/api/badge/metal-bugg?theme=dark&style=default"
-            alt="Featured on Orynth"
-            width={200}
-            height={62}
+            src="https://img.shields.io/badge/X-digiwarriorsfun-1DA1F2?style=for-the-badge&logo=x&logoColor=white"
+            alt="Follow DigiWarriors on X"
+            width={240}
+            height={54}
           />
         </motion.a>
       </motion.div>
